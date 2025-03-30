@@ -1,6 +1,4 @@
-import './App.css';
-import './index.css';
-import { Session } from './Session';
+import { Session } from './components/Session';
 
 function App() {
   return <Session />;
